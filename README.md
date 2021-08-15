@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naim87
-- 👀 I’m interested in leraning yo use phyton
+- 👀 I’m interested in learning to use phyton as beginner
 - 🌱 I’m currently learning data translator
 - 💞️ I’m looking to collaborate on any data analytic expert with phython skills
 - 📫 How to reach me a.naim.mp3k@gmail.com
